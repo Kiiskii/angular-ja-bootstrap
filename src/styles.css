@@ -9,6 +9,15 @@ h1 {
   font-weight: bold;
   border: lightgray dashed 1px;
 }
+.wrapper {
+  padding-top: 3rem;
+}
+.carousel-item img {
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  object-fit: cover;
+}
 .dropdown-menu {
   width: 200px;
 }
